@@ -1,6 +1,6 @@
 const paragraphs = [
-    " piqueroque poutier wipeout equipt equity pique poetry pouter purity pyrite quoter qwerty roque torque piqueroque poutier wipeout equipt equity pique poetry pouter purity pyrite quoter qwerty roque torque piqueroque poutier wipeout equipt equity pique poetry pouter purity pyrite quoter qwerty roque torque",
-    "piqueroque poutier wipeout equipt equity pique poetry pouter purity pyrite quoter qwerty roque torque piqueroque poutier wipeout equipt equity pique poetry pouter purity pyrite quoter qwerty roque torque piqueroque poutier wipeout equipt equity pique poetry pouter purity pyrite quoter qwerty roque torque",
+    "rope pity quit query pure rip quiet riot quip qute rope pity quit query pure rip quiet riot quip qute rope pity quit query pure rip quiet riot quip qute rope pity quit query pure rip quiet riot quip qute rope pity quit query pure rip quiet riot quip qute rope pity quit <br> query pure rip quiet riot quip qute rope pity quit query pure rip quiet riot quip qute ",
+    "rope pity quit query pure rip quiet riot quip qute rope pity quit query pure rip quiet riot quip qute rope pity quit query pure rip quiet riot quip qute rope pity quit query pure rip quiet riot quip qute rope pity quit query pure rip quiet riot quip qute rope pity quit <br> query pure rip quiet riot quip qute rope pity quit query pure rip quiet riot quip qute ",
 ];
 
 const typingText = document.querySelector(".typing-text p")
